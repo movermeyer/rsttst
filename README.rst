@@ -4,10 +4,10 @@
 .. image:: https://travis-ci.org/willemt/rsttst.png
    :target: https://travis-ci.org/willemt/rsttst
 
-.. image:: https://pypip.in/version/rsttst/badge.svg
+.. image:: https://img.shields.io/pypi/v/rsttst.svg
    :target: https://pypi.python.org/pypi/rsttst
  
-.. image:: https://pypip.in/download/rsttst/badge.svg
+.. image:: https://img.shields.io/pypi/dm/rsttst.svg
    :target: https://pypi.python.org/pypi/rsttst
 
 rsttst makes your reStructuredText documentation testable.
